@@ -9,7 +9,7 @@ class PostList extends Component {
     }
 
     componentDidMount() {
-        // to access data from the API, we will use "then" and "catch" block.
+        // to access data from the API, we will use "then" and "catch" block
         // "then" accepts arrow function as an argument which gives access to the response.
         // if something goes wrong, that would be handled by the "catch" block.
         
